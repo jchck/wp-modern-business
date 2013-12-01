@@ -8,13 +8,13 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner">
     <div class="item active">
-      <img src="http://placehold.it/1900x1080&text=Slide One">
+      <img src="http://placehold.it/1140x250&text=Slide One">
       <div class="carousel-caption">
         <h1>This is just a test</h1>
       </div>
     </div>
     <div class="item">
-      <img src="http://placehold.it/1900x1080&text=Slide Two">
+      <img src="http://placehold.it/1140x250&text=Slide Two">
       <div class="carousel-caption">
         <h1>This is just a test</h1>
       </div>
