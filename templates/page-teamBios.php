@@ -9,10 +9,7 @@
             <h3>John Smith <small>Job Title</small></h3>
             <p>What does this team member do? Keep it short! This is also a great spot for social links!</p>
             <ul class="list-unstyled list-inline list-social-icons">
-
               <li class="tooltip-social email-link"><a href="#email" data-toggle="tooltip" data-placement="top" title="Email"><i class="fa fa-envelope fa-2x"></i></a></li>
-
-
               <li class="tooltip-social facebook-link"><a href="#facebook-profile" data-toggle="tooltip" data-placement="top" title="Facebook"><i class="fa fa-facebook-square fa-2x"></i></a></li>
               <li class="tooltip-social linkedin-link"><a href="#linkedin-profile" data-toggle="tooltip" data-placement="top" title="LinkedIn"><i class="fa fa-linkedin-square fa-2x"></i></a></li>
               <li class="tooltip-social twitter-link"><a href="#twitter-profile" data-toggle="tooltip" data-placement="top" title="Twitter"><i class="fa fa-twitter-square fa-2x"></i></a></li>
@@ -25,6 +22,7 @@
             <h3>John Smith <small>Job Title</small></h3>
             <p>What does this team member do? Keep it short! This is also a great spot for social links!</p>
             <ul class="list-unstyled list-inline list-social-icons">
+              <li class="tooltip-social email-link"><a href="#email" data-toggle="tooltip" data-placement="top" title="Email"><i class="fa fa-envelope fa-2x"></i></a></li>
               <li class="tooltip-social facebook-link"><a href="#facebook-profile" data-toggle="tooltip" data-placement="top" title="Facebook"><i class="fa fa-facebook-square fa-2x"></i></a></li>
               <li class="tooltip-social linkedin-link"><a href="#linkedin-profile" data-toggle="tooltip" data-placement="top" title="LinkedIn"><i class="fa fa-linkedin-square fa-2x"></i></a></li>
               <li class="tooltip-social twitter-link"><a href="#twitter-profile" data-toggle="tooltip" data-placement="top" title="Twitter"><i class="fa fa-twitter-square fa-2x"></i></a></li>
@@ -37,6 +35,7 @@
             <h3>John Smith <small>Job Title</small></h3>
             <p>What does this team member do? Keep it short! This is also a great spot for social links!</p>
             <ul class="list-unstyled list-inline list-social-icons">
+              <li class="tooltip-social email-link"><a href="#email" data-toggle="tooltip" data-placement="top" title="Email"><i class="fa fa-envelope fa-2x"></i></a></li>
               <li class="tooltip-social facebook-link"><a href="#facebook-profile" data-toggle="tooltip" data-placement="top" title="Facebook"><i class="fa fa-facebook-square fa-2x"></i></a></li>
               <li class="tooltip-social linkedin-link"><a href="#linkedin-profile" data-toggle="tooltip" data-placement="top" title="LinkedIn"><i class="fa fa-linkedin-square fa-2x"></i></a></li>
               <li class="tooltip-social twitter-link"><a href="#twitter-profile" data-toggle="tooltip" data-placement="top" title="Twitter"><i class="fa fa-twitter-square fa-2x"></i></a></li>
@@ -49,6 +48,7 @@
             <h3>John Smith <small>Job Title</small></h3>
             <p>What does this team member do? Keep it short! This is also a great spot for social links!</p>
             <ul class="list-unstyled list-inline list-social-icons">
+              <li class="tooltip-social email-link"><a href="#email" data-toggle="tooltip" data-placement="top" title="Email"><i class="fa fa-envelope fa-2x"></i></a></li>
               <li class="tooltip-social facebook-link"><a href="#facebook-profile" data-toggle="tooltip" data-placement="top" title="Facebook"><i class="fa fa-facebook-square fa-2x"></i></a></li>
               <li class="tooltip-social linkedin-link"><a href="#linkedin-profile" data-toggle="tooltip" data-placement="top" title="LinkedIn"><i class="fa fa-linkedin-square fa-2x"></i></a></li>
               <li class="tooltip-social twitter-link"><a href="#twitter-profile" data-toggle="tooltip" data-placement="top" title="Twitter"><i class="fa fa-twitter-square fa-2x"></i></a></li>
@@ -61,6 +61,7 @@
             <h3>John Smith <small>Job Title</small></h3>
             <p>What does this team member do? Keep it short! This is also a great spot for social links!</p>
             <ul class="list-unstyled list-inline list-social-icons">
+              <li class="tooltip-social email-link"><a href="#email" data-toggle="tooltip" data-placement="top" title="Email"><i class="fa fa-envelope fa-2x"></i></a></li>
               <li class="tooltip-social facebook-link"><a href="#facebook-profile" data-toggle="tooltip" data-placement="top" title="Facebook"><i class="fa fa-facebook-square fa-2x"></i></a></li>
               <li class="tooltip-social linkedin-link"><a href="#linkedin-profile" data-toggle="tooltip" data-placement="top" title="LinkedIn"><i class="fa fa-linkedin-square fa-2x"></i></a></li>
               <li class="tooltip-social twitter-link"><a href="#twitter-profile" data-toggle="tooltip" data-placement="top" title="Twitter"><i class="fa fa-twitter-square fa-2x"></i></a></li>
@@ -73,6 +74,7 @@
             <h3>John Smith <small>Job Title</small></h3>
             <p>What does this team member do? Keep it short! This is also a great spot for social links!</p>
             <ul class="list-unstyled list-inline list-social-icons">
+              <li class="tooltip-social email-link"><a href="#email" data-toggle="tooltip" data-placement="top" title="Email"><i class="fa fa-envelope fa-2x"></i></a></li>
               <li class="tooltip-social facebook-link"><a href="#facebook-profile" data-toggle="tooltip" data-placement="top" title="Facebook"><i class="fa fa-facebook-square fa-2x"></i></a></li>
               <li class="tooltip-social linkedin-link"><a href="#linkedin-profile" data-toggle="tooltip" data-placement="top" title="LinkedIn"><i class="fa fa-linkedin-square fa-2x"></i></a></li>
               <li class="tooltip-social twitter-link"><a href="#twitter-profile" data-toggle="tooltip" data-placement="top" title="Twitter"><i class="fa fa-twitter-square fa-2x"></i></a></li>
