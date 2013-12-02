@@ -63,7 +63,8 @@ function roots_display_sidebar() {
      */
     array(
       'template-custom.php',
-      'template-mainSection.php'
+      'template-mainSection.php',
+      'template-team.php'
     )
   );
 
