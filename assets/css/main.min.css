@@ -7395,6 +7395,9 @@ body {
 .google-plus-link a:hover {
   color: #d14836;
 }
+.email-link a:hover {
+  color: #FBD392;
+}
 /* Service Page Styles */
 .service-icon {
   font-size: 50px;
