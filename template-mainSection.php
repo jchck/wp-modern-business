@@ -16,3 +16,5 @@ Template Name: Main Section Page
 		<?php get_template_part('templates/content', 'page'); ?>
 	</div>
 </div>
+
+<?php get_template_part('templates/page', 'tabs'); ?>
