@@ -7461,9 +7461,11 @@ footer {
 }
 .alignleft {
   float: left;
+  margin-right: 30px;
 }
 .alignright {
   float: right;
+  margin-left: 30px;
 }
 figure.alignnone {
   margin-left: 0;
